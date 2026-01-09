@@ -38,8 +38,8 @@
 			isa = PBXGroup;
 			children = (
 				6D3DD0CE2F10F04C00A88289 /* README.md */,
-				6D3DD0BC2F10050A00A88289 /* TexasHoldem */,
 				6D3DD0BB2F10050A00A88289 /* Products */,
+				6D3DD0BC2F10050A00A88289 /* TexasHoldem */,
 			);
 			sourceTree = "<group>";
 		};

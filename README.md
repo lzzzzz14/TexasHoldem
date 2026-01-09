@@ -20,8 +20,8 @@
 ---
 
 ### M2 · 核心数据结构（无 UI）
-- [ ] Card（花色 / 点数）
-- [ ] Deck（洗牌 / 发牌）
+- [x] Card（花色 / 点数）
+- [x] Deck（洗牌 / 发牌）
 - [ ] Player（id / 筹码 / 手牌）
 - [ ] GamePhase（Preflop / Flop / Turn / River / Showdown）
 - [ ] GameState（公共牌 / 底池 / 当前行动者）
