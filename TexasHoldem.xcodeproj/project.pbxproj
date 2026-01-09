@@ -6,8 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		6D3DD0D02F10F06200A88289 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 6D3DD0CE2F10F04C00A88289 /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		6D3DD0BA2F10050A00A88289 /* TexasHoldem.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TexasHoldem.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		6D3DD0CE2F10F04C00A88289 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -32,6 +37,7 @@
 		6D3DD0B12F10050A00A88289 = {
 			isa = PBXGroup;
 			children = (
+				6D3DD0CE2F10F04C00A88289 /* README.md */,
 				6D3DD0BC2F10050A00A88289 /* TexasHoldem */,
 				6D3DD0BB2F10050A00A88289 /* Products */,
 			);
@@ -109,6 +115,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6D3DD0D02F10F06200A88289 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
